@@ -54,4 +54,4 @@ import mod
 import pkg.mod1, pkg.mod2
 print('test mod cuy',mod.a)
 ##print(pkg.mod1())
-
+print('hello world')
